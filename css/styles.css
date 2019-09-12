@@ -1,0 +1,19 @@
+h1 {
+  color: rgb(40, 61, 45);
+}
+
+.container {
+  width: 360px;
+  margin: 0 auto;
+  background-color: rgb(199, 212, 202);
+  padding: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+}
+
+.btn {
+  background: white;
+}
+
+#survey {
+  display: none;
+}
